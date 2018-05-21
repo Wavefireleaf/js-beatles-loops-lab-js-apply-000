@@ -1,8 +1,7 @@
 function theBeatlesPlay(musicians, instruments) {
   var array = [];
-  for (var i = 0; i < 4; i++); {
-    return ;
-  }
+  for (var i = 0; i < musicians.length; i++); {}
+  return array;
 }
 
 function johnlennonFacts(BeatlesLoops) {
