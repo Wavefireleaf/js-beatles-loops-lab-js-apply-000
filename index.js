@@ -1,5 +1,5 @@
 function theBeatlesPlay(BeatlesLoops) {
-  var musicians = 
+  var musicians = ["John Lennon"]
 }
 
 function johnlennonFacts(BeatlesLoops) {
